@@ -85,6 +85,7 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => '',
 		'database' => 'blog',
+		'encoding' => 'utf8',
 		'prefix' => '',
 	);
 
